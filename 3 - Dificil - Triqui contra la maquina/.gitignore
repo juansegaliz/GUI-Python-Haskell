@@ -1,0 +1,10 @@
+build/
+*.exe
+*.o
+*.hi
+analizador
+notas
+triqui
+registro_haskell.txt
+reporte*.txt
+__pycache__/
